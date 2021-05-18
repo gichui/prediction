@@ -1,0 +1,19 @@
+This program is made for football funs all over the world.
+We appreciate that you downloaded it.
+=============how it work======
+It assume that the probabilty of a team scoring a goal is in the form of poission 
+distribution, thus calculating the probabilties of diffirent combination of goals.
+==================requirements  =================
+this is a windows application  most probable window 8.1 64 bits
+in order to make good and accurate prediction one need to have knowdege of the
+ home odds ,draw odds and away odds  which if possible from BET365 betting comapany.
+once the data is on hand one can make prediction of home win
+draw ,away win,over and under 2.5 ,Goal goal/BTS and No goal goal.
+correct score are not available on this version.
+N\B data would should be collected before the game start and prefferably one hour before the start time. 
+***************************developer*********************************
+It is design and programmed by jackman. If you like it you can contact him on
+email:jackmangichui@gmail.com
+phone:+254792506693
+
+******************************Enjoy *****************************************  
